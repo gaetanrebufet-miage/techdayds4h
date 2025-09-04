@@ -12,6 +12,7 @@ Oubliez la théorie et les beaux schémas. Je vous invite à découvrir les deux
 
 ## Scrum
 
-## Kanban Kanban pizza game
+## Kanban 
+- [Kanban Kanban pizza game](https://www.agile42.com/en/agile-teams/kanban-pizza-game)
 
 ## SAFe
