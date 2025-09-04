@@ -18,7 +18,7 @@ Oubliez la théorie et les beaux schémas. Je vous invite à découvrir les deux
 
 ## Scrum
 
--[Qu'est-ce que Scrum et comment se lancer](https://www.atlassian.com/fr/agile/scrum))
+- [Qu'est-ce que Scrum et comment se lancer](https://www.atlassian.com/fr/agile/scrum)
 
 ## Kanban 
 
