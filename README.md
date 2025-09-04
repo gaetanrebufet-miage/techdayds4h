@@ -12,11 +12,9 @@ Oubliez la théorie et les beaux schémas. Je vous invite à découvrir les deux
 
 ## Agile
 
--[The resource utilization trap](https://www.youtube.com/watch?v=CostXs2p6r0)
-
--[Transforming the Pyramid to an Agile Organization](https://www.youtube.com/watch?v=-tTAfrpjKvQ)
-
--[Team canvas - Get your team on the same page](https://theteamcanvas.com/)
+- [The resource utilization trap](https://www.youtube.com/watch?v=CostXs2p6r0)
+- [Transforming the Pyramid to an Agile Organization](https://www.youtube.com/watch?v=-tTAfrpjKvQ)
+- [Team canvas - Get your team on the same page](https://theteamcanvas.com/)
 
 ## Scrum
 
@@ -29,5 +27,4 @@ Oubliez la théorie et les beaux schémas. Je vous invite à découvrir les deux
 ## Agile at scale
 
 - [Scaling Agile @Spotify](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
-  
 - [Scaled Agile Framework](https://framework.scaledagile.com/)
